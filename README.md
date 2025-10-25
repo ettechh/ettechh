@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eric Tech </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&width=435&lines=Eric+Tech;Computer+Science+Student" alt="Typing SVG" /></a>
 <h3 align="center"> Computer Science Student and Developer from MA </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ettechh" alt="ettechh" /></a> </p>
