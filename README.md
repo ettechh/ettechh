@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eric Tech </h1> 
 <h3 align="center"> Computer Science Student and Developer from MA </h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ettechh&theme=onedark&title=-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ettechh&theme=dracula&title=-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working on **a Horror Game Video Game!**
 
 - 🌱 I’m currently learning **Unity**
