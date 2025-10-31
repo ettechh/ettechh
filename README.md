@@ -2,7 +2,7 @@
 <h3 align="center"> Computer Science Student and Developer from MA </h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ettechh&theme=dracula&title=-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-- 🔭 I’m currently working on **a Horror Game Video Game!**
+- 🔭 I’m currently working on **a Horror Video Game!**
 
 - 🌱 I’m currently learning **Unity**
 
