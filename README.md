@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Unity**
 
-- 📫 How to reach me **erictech.et@gmail.com**
+- 📫 Reach me at: **erictech.et@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
